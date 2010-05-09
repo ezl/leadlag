@@ -1,0 +1,35 @@
+bs:3	 et:2	 Net:0.0760535407149	 Trade:0.867378435232	 Cost:0.791324894517	 Trades/Day:4.728	 leb:4	 ueb:6	
+bs:4	 et:2	 Net:0.0586168339967	 Trade:0.839335915497	 Cost:0.780719081501	 Trades/Day:4.512	 leb:4	 ueb:6
+bs:3	 et:3	 Net:0.0523484138582	 Trade:0.828489289319	 Cost:0.776140875461	 Trades/Day:4.456	 leb:4	 ueb:6	
+bs:4	 et:3	 Net:0.0509549795383	 Trade:0.827095852929	 Cost:0.77614087339	 Trades/Day:4.44	 leb:4	 ueb:6	
+
+bs:4	 et:0	 Net:0.100767384847	 Trade:0.51465066414	 Cost:0.413883279293	 Trades/Day:4.128	 leb:5	 ueb:7	
+
+bs:8	 et:-1	 Net:0.0531712830989	 Trade:0.552875652596	 Cost:0.499704369497	 Trades/Day:4.944	 leb:5	 ueb:8	
+bs:10	 et:-1	 Net:0.0965035241609	 Trade:0.572110230462	 Cost:0.475606706301	 Trades/Day:4.576	 leb:5	 ueb:8	
+bs:11	 et:-1	 Net:0.0803898375887	 Trade:0.547023454836	 Cost:0.466633617248	 Trades/Day:4.408	 leb:5	 ueb:8	
+bs:12	 et:-1	 Net:0.0988417974948	 Trade:0.555361191908	 Cost:0.456519394413	 Trades/Day:4.272	 leb:5	 ueb:8	
+bs:4	 et:0	 Net:0.169774863814	 Trade:0.642902841796	 Cost:0.473127977982	 Trades/Day:4.592	 leb:5	 ueb:8	
+bs:2	 et:2	 Net:0.0910736082485	 Trade:0.548820413183	 Cost:0.457746804935	 Trades/Day:4.016	 leb:5	 ueb:8	
+bs:1	 et:4	 Net:0.115244693909	 Trade:0.568926436833	 Cost:0.453681742924	 Trades/Day:4.016	 leb:5	 ueb:8	
+
+bs:8	 et:-1	 Net:0.0740773696402	 Trade:0.597567903418	 Cost:0.523490533777	 Trades/Day:5.136	 leb:5	 ueb:9	
+bs:9	 et:-1	 Net:0.0567638719015	 Trade:0.570540561178	 Cost:0.513776689277	 Trades/Day:4.944	 leb:5	 ueb:9	
+bs:10	 et:-1	 Net:0.114988641101	 Trade:0.612596548323	 Cost:0.497607907222	 Trades/Day:4.752	 leb:5	 ueb:9	
+bs:11	 et:-1	 Net:0.0974856187648	 Trade:0.586053693044	 Cost:0.488568074279	 Trades/Day:4.584	 leb:5	 ueb:9	
+bs:12	 et:-1	 Net:0.114981814231	 Trade:0.593435664574	 Cost:0.478453850343	 Trades/Day:4.448	 leb:5	 ueb:9	
+bs:4	 et:0	 Net:0.182123351541	 Trade:0.679037420595	 Cost:0.496914069054	 Trades/Day:4.776	 leb:5	 ueb:9	
+bs:2	 et:2	 Net:0.0765710538705	 Trade:0.558514728622	 Cost:0.481943674752	 Trades/Day:4.224	 leb:5	 ueb:9	
+bs:1	 et:4	 Net:0.11104077476	 Trade:0.587278984369	 Cost:0.476238209609	 Trades/Day:4.176	 leb:5	 ueb:9	
+
+@PROMISING
+bs:4	 et:0	 Net:0.100767384847	 Trade:0.51465066414	 Cost:0.413883279293	 Trades/Day:4.128	 leb:5	 ueb:7	
+bs:4	 et:0	 Net:0.169774863814	 Trade:0.642902841796	 Cost:0.473127977982	 Trades/Day:4.592	 leb:5	 ueb:8	
+bs:4	 et:0	 Net:0.182123351541	 Trade:0.679037420595	 Cost:0.496914069054	 Trades/Day:4.776	 leb:5	 ueb:9	
+
+bs:2	 et:2	 Net:0.0910736082485	 Trade:0.548820413183	 Cost:0.457746804935	 Trades/Day:4.016	 leb:5	 ueb:8	
+bs:2	 et:2	 Net:0.0765710538705	 Trade:0.558514728622	 Cost:0.481943674752	 Trades/Day:4.224	 leb:5	 ueb:9	
+
+bs:1	 et:4	 Net:0.115244693909	 Trade:0.568926436833	 Cost:0.453681742924	 Trades/Day:4.016	 leb:5	 ueb:8	
+bs:1	 et:4	 Net:0.11104077476	 Trade:0.587278984369	 Cost:0.476238209609	 Trades/Day:4.176	 leb:5	 ueb:9	
+
