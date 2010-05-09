@@ -57,6 +57,7 @@ def backtest_period(plot=False, **kwargs):
         pnl = list()
         cost = list()
         VXX_close = list()
+        VXX_vol = list()
         SPY_close = list()
         trade_count = list()
         threshold = 0.00015
@@ -73,7 +74,7 @@ def backtest_period(plot=False, **kwargs):
             pnl.append(raw_profit)
             cost.append(raw_cost)
             trade_count.append(tc)
-
+i           VXX_vol.append(np.std(np.diff(np.log(VXX))))
         running_pnl = np.cumsum(pnl)
         running_cost = np.cumsum(cost)
         running_net = running_pnl - running_cost
@@ -125,6 +126,8 @@ def backtest_period(plot=False, **kwargs):
             pyplot.plot(correlation)
             pyplot.title("Correlation (1 period lag)")
 
+            pyplot.subplot(3, 2, 6)
+            pyplot.plot(VXX_vol)
             pyplot.show()
 
 if __name__ == "__main__":
